@@ -1,7 +1,6 @@
 ### Hi! :girl: 
 ### I am `@smellslikekeenspirit` on all of web 
 ![](hi.gif)
-
  | originally from 🏠 |      currently in 📍  |  likes rain ☔ |
 |----------|:-------------:|------:|
 | Dhaka, Bangladesh |  Boston, MA | very much |
