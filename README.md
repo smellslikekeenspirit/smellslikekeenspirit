@@ -1,8 +1,7 @@
 
-
+#### *Recruiters, I'm looking for **Spring 2021** and Summer 2021 internships: look at my resume [here](https://github.com/smellslikekeenspirit/smellslikekeenspirit/blob/master/PriontiNasir-Resume.pdf)*
 ### Hi! :girl: 
 ### I am `@smellslikekeenspirit` on all of web 
-#### *Recruiters, I'm looking for **Spring 2021** and Summer 2021 internships: look at my resume [here](https://github.com/smellslikekeenspirit/smellslikekeenspirit/blob/master/PriontiNasir-Resume.pdf)*
 
 ![](hi.gif)
 | originally from 🏠 | currently in 📍 | likes rain ☔ |
