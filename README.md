@@ -4,15 +4,18 @@
 ### I am `@smellslikekeenspirit` on all of web 
 
 ![](hi.gif)
+
+<h4> August 2020 update: back to school in Rochester </h4>
+
 | originally from 🏠 | currently in 📍 | likes flowers :bouquet: | likes rain ☔ |
 |----------|:-------------:|---------:|---------:|
-| Dhaka, Bangladesh|Boston, MA  |very much| a little too much|
+| Dhaka, Bangladesh|Rochester, NY  |very much| a little too much|
 
 #### A very condensed bio :cherry_blossom:
 ---
 Allowing concrete achievements - academic or otherwise - to speak for my prowess is quite uncomfortable, but it is the only heuristically efficient metric to hand someone who has no other data. 
 
-:tulip: I am an Honors scholar at my university, which is to say that I am in the top 1% of students in terms of academics and extracurricular activities. To continue to be a part of this program, I have to take advanced classes, wipe off a mixture of tears and sweat off of myself to maintain a high GPA and display intense community involvement. 
+:tulip: I am an Honors student, which is to say that I am in the top 1% of students in terms of academics and extracurricular activities. To continue to be a part of this program, I have to take advanced classes, wipe off a mixture of tears and sweat off of myself to maintain a high GPA and display intense community involvement. 
 
 :maple_leaf: Last semester I worked at HubSpot as a software engineering intern on an internal team that develops data analysis tools. 
 
