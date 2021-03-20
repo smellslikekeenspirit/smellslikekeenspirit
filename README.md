@@ -15,7 +15,7 @@ Allowing concrete achievements - academic or otherwise - to speak for me is quit
 
 :tulip: I am an Honors student, which is to say that I am in the top 1% of class in terms of academics and extracurricular activities. To continue to be a part of this program, I have to take advanced classes, wipe off a mixture of tears and sweat off of myself to maintain a high GPA and display intense community involvement. 
 
-:maple_leaf: In the summer, I'll be at Spotify on one of their Personalization teams. Last semester I worked at HubSpot as a software engineering intern on an internal team that develops data analysis tools. 
+:maple_leaf: In the summer, I'll be at Spotify on one of their Personalization teams. Last semester I worked at HubSpot as a software engineering intern on a team that develops data analysis tools. 
 
 :sunflower: Currently, I am doing research with National Technical Institute for the Deaf on an NSF-funded project that seeks to identify key prospective features that will help the deaf communicate better with the hearing. 
 
