@@ -14,9 +14,9 @@
 ---
 Allowing concrete achievements - academic or otherwise - to speak for my prowess is quite uncomfortable, but it is the most convenient metric to hand someone who has no other data. 
 
-:tulip: I am an Honors student, which is to say that I am in the top 1% of students in terms of academics and extracurricular activities. To continue to be a part of this program, I have to take advanced classes, wipe off a mixture of tears and sweat off of myself to maintain a high GPA and display intense community involvement. 
+:tulip: I am an Honors student, which is to say that I am in the top 1% of class in terms of academics and extracurricular activities. To continue to be a part of this program, I have to take advanced classes, wipe off a mixture of tears and sweat off of myself to maintain a high GPA and display intense community involvement. 
 
-:maple_leaf: Last semester I worked at HubSpot as a software engineering intern on an internal team that develops data analysis tools. 
+:maple_leaf: In the summer, I'll be at Spotify on one of their Personalization teams. Last semester I worked at HubSpot as a software engineering intern on an internal team that develops data analysis tools. 
 
 :sunflower: Currently, I am doing research with National Technical Institute for the Deaf on a project that seeks to identify key prospective features that will help the deaf communicate better with the hearing. 
 
@@ -26,7 +26,7 @@ Allowing concrete achievements - academic or otherwise - to speak for my prowess
 
 #### Software-specific bit :computer:
 ---
-I have learned to appreciate readable, elegant code over my time as a baby developer. I don't like leaving code unattended. I'd rather make elaborate flower garlands for each function in the form of documentation. But I often don't have the time to do so...
+I have learned to appreciate readable, elegant code over my time as a baby developer. I mean, I promise I don't like leaving code unattended. I'd rather make elaborate flower garlands for each function in the form of documentation. But I often don't have the time to do so...
 
 I am picky about my variable names, they ought to fit into context and be coherent in my code. Unless it's an experimental project. Then I'd use x and y until I am certain the program even works. 
 
