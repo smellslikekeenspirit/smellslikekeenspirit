@@ -4,7 +4,7 @@
 
 ![](hi.gif)
 
-| originally from 🏠 | currently in 📍 | likes flowers :bouquet: | likes rain ☔ | what I'm listening to while zoning out in person 🎵 |
+| originally from 🏠 | currently in 📍 | likes flowers :bouquet: | likes rain ☔ | what I listen to while zoning out in person 🎵 |
 |----------|:-------------:|---------:|---------:|---------:|
 | Dhaka, Bangladesh|Rochester, NY  |very much| too much for my own good| [my musical children](https://open.spotify.com/user/21vqey65jhjiyu5kgcpikybwq) |
 
