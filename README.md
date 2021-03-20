@@ -23,8 +23,11 @@ Allowing concrete achievements - academic or otherwise - to speak for me is quit
 
 :rose: I am also a trained Indian classical singer and I play the harmonium, esraj and tanpura - I wish I could replace one of these with the guitar :c
 
-#### Software-specific bit :computer:
+Also, here are [some hackathon tingz](https://devpost.com/smellslikekeenspirit)!!
+
+#### Coding-specific bit :computer:
 ---
+
 I have learned to appreciate readable, elegant code over my time as a baby developer. I mean, I promise I don't like leaving code unattended. I'd rather make elaborate flower garlands for each function in the form of documentation. But I often don't have the time to do so...
 
 I am picky about my variable names, they ought to fit into context and be coherent in my code. Unless it's an experimental project. Then I'd use x and y until I am certain the program even works. 
