@@ -4,8 +4,6 @@
 
 ![](hi.gif)
 
-<h4> August 2020 update: back to school in Rochester </h4>
-
 | originally from 🏠 | currently in 📍 | likes flowers :bouquet: | likes rain ☔ | what I listen to while coding 🎵 |
 |----------|:-------------:|---------:|---------:|---------:|
 | Dhaka, Bangladesh|Rochester, NY  |very much| too much for my own good| [my musical children](https://open.spotify.com/user/21vqey65jhjiyu5kgcpikybwq) |
