@@ -6,9 +6,10 @@
 
 <h4> August 2020 update: back to school in Rochester </h4>
 
-| originally from 🏠 | currently in 📍 | likes flowers :bouquet: | likes rain ☔ |
-|----------|:-------------:|---------:|---------:|
-| Dhaka, Bangladesh|Rochester, NY  |very much| too much for my own good|
+| originally from 🏠 | currently in 📍 | likes flowers :bouquet: | likes rain ☔ | what I listen to while coding 🎵 |
+|----------|:-------------:|---------:|---------:|---------:|
+| Dhaka, Bangladesh|Rochester, NY  |very much| too much for my own good| [these](https://open.spotify.com/user/21vqey65jhjiyu5kgcpikybwq) |
+
 
 #### A very condensed bio :cherry_blossom:
 ---
