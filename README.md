@@ -1,5 +1,5 @@
 
-#### *Recruiters, I'm looking for Fall 2021 internships: look at my resume [here](https://github.com/smellslikekeenspirit/smellslikekeenspirit/blob/master/PriontiNasirResume.pdf)*
+#### *Recruiters, I'm pumped for Fall 2021 internships: look at my resume [here](https://github.com/smellslikekeenspirit/smellslikekeenspirit/blob/master/PriontiNasirResume.pdf)*
 ### Hi! I am `@smellslikekeenspirit` on all of web 
 
 ![](hi.gif)
@@ -23,7 +23,7 @@ Allowing concrete achievements - academic or otherwise - to speak for me is quit
 
 :rose: I am also a trained Indian classical singer and I play the harmonium, esraj and tanpura - I wish I could replace one of these with the guitar :c
 
-Also, here are [some hackathon tingz](https://devpost.com/smellslikekeenspirit)!!
+💮 Also, here are [some hackathon tingz](https://devpost.com/smellslikekeenspirit).
 
 #### Coding-specific bit :computer:
 ---
