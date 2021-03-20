@@ -8,7 +8,7 @@
 
 | originally from 🏠 | currently in 📍 | likes flowers :bouquet: | likes rain ☔ | what I listen to while coding 🎵 |
 |----------|:-------------:|---------:|---------:|---------:|
-| Dhaka, Bangladesh|Rochester, NY  |very much| too much for my own good| [these](https://open.spotify.com/user/21vqey65jhjiyu5kgcpikybwq) |
+| Dhaka, Bangladesh|Rochester, NY  |very much| too much for my own good| [my musical children](https://open.spotify.com/user/21vqey65jhjiyu5kgcpikybwq) |
 
 
 #### A very condensed bio :cherry_blossom:
