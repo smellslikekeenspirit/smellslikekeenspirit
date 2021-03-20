@@ -11,7 +11,7 @@
 
 #### A very condensed bio :cherry_blossom:
 ---
-Allowing concrete achievements - academic or otherwise - to speak for my prowess is quite uncomfortable, but it is the most convenient metric to hand someone who has no other data. 
+Allowing concrete achievements - academic or otherwise - to speak for me is quite uncomfortable, but it is the most convenient metric to hand someone who has no other data. 
 
 :tulip: I am an Honors student, which is to say that I am in the top 1% of class in terms of academics and extracurricular activities. To continue to be a part of this program, I have to take advanced classes, wipe off a mixture of tears and sweat off of myself to maintain a high GPA and display intense community involvement. 
 
