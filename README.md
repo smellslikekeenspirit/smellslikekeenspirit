@@ -1,5 +1,5 @@
 
-#### *Recruiters, I'm pumped for Fall 2021 internships: look at my resume [here](https://github.com/smellslikekeenspirit/smellslikekeenspirit/blob/master/PriontiNasirResume.pdf)*
+#### look at my resume [here](https://github.com/smellslikekeenspirit/smellslikekeenspirit/blob/master/PriontiNasirResume.pdf)
 ### Hi! I am `@smellslikekeenspirit` on all of web 
 
 ![](hi.gif)
