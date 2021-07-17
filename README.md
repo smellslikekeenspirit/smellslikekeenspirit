@@ -17,7 +17,7 @@ Allowing concrete achievements - academic or otherwise - to speak for me is quit
 
 :sunflower: Currently, I am doing research with National Technical Institute for the Deaf on an NSF-funded project that seeks to identify key prospective features that will help the deaf communicate better with the hearing. 
 
-:hibiscus: I take great interest in reading and writing, both prose and poetry; I am on the editorial team for Signatures, my college’s award-winning yearly magazine. Besides that, you can find my writing sprinkled around the virtual realm. [Here's](https://medium.com/@priontinasir) one of the places I speak of. 
+:hibiscus: I take great interest in reading and writing, both prose and poetry; I am on the editorial team for [Signatures](http://www.signaturesmag.com/), my college’s award-winning yearly magazine. Besides that, you can find my writing sprinkled around the virtual realm. [Here's](https://medium.com/@priontinasir) one of the places I speak of. 
 
 :rose: I am also a trained Indian classical singer and I play the harmonium, esraj and tanpura - I wish I could replace one of these with the guitar :c
 
