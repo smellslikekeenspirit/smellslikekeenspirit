@@ -1,6 +1,6 @@
 
 #### look at my resume [here](https://github.com/smellslikekeenspirit/smellslikekeenspirit/blob/master/PriontiNasirResume.pdf)
-### Hi! I am `@smellslikekeenspirit` on all of web 
+### Hi! I am `@smellslikekeenspirit` across the web 
 
 ![](hi.gif)
 
@@ -11,7 +11,7 @@
 
 #### A very condensed bio :cherry_blossom:
 ---
-Allowing concrete achievements - academic or otherwise - to speak for me is quite uncomfortable, but it is the most convenient metric to hand someone who has no other data. 
+Allowing concrete achievements - academic or otherwise - to speak for me is quite uncomfortable, but they are the most convenient metric to hand someone who has no other data. 
 
 :maple_leaf: In the fall, I'll be at Spotify on one of their Personalization teams. Last semester I worked at HubSpot as a software engineering intern on a team that develops data analysis tools. 
 
