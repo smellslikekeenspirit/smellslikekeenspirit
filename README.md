@@ -13,9 +13,9 @@
 ---
 Allowing concrete achievements - academic or otherwise - to speak for me is quite uncomfortable, but they are the most convenient metric to hand someone who has no other data. 
 
-:maple_leaf: In the fall, I'll be at Spotify on one of their Personalization teams. Last semester I worked at HubSpot as a software engineering intern on a team that develops data analysis tools. 
+:maple_leaf: In the fall, I was at Spotify on one of their Personalization teams. In the summer, I was at Microsoft working across the stack on a new product. Last year I worked at HubSpot as a software engineering intern on a team that develops data analysis tools. 
 
-:sunflower: Currently, I am doing research with National Technical Institute for the Deaf on an NSF-funded project that seeks to identify key prospective features that will help the deaf communicate better with the hearing. 
+:sunflower: Currently, I am doing research with National Technical Institute for the Deaf on an NSF-funded project that seeks to build a better metric than the word-error rate for the evaluation of automatic captioning systems. 
 
 :hibiscus: I take great interest in reading and writing, both prose and poetry; I am on the editorial team for [Signatures](http://www.signaturesmag.com/), my college’s award-winning yearly magazine. Besides that, you can find my writing sprinkled around the virtual realm. [Here's](https://medium.com/@priontinasir) one of the places I speak of. 
 
