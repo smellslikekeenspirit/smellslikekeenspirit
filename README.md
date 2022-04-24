@@ -1,8 +1,7 @@
 
-#### look at my resume [here](https://github.com/smellslikekeenspirit/smellslikekeenspirit/blob/master/PriontiNasirResume.pdf)
 ### Hi! I am `@smellslikekeenspirit` across the web 
 
-![](hi.gif)
+[LinkedIn](https://www.linkedin.com/in/prionti-nasir/r) | [Medium](https://medium.com/@priontinasir) | [Resume](https://github.com/smellslikekeenspirit/smellslikekeenspirit/blob/master/PriontiNasirResume.pdf)
 
 | from 🏠 | in 📍 | likes flowers 💐 | likes rain ☔ | what I listen to while zoning out irl 🎵 |
 |----------|:-------------:|---------:|---------:|---------:|
@@ -17,7 +16,7 @@ Allowing concrete achievements - academic or otherwise - to speak for me is quit
 
 :sunflower: Currently, I am doing research with National Technical Institute for the Deaf on an NSF-funded project that seeks to build a better metric than the word-error rate for the evaluation of automatic captioning systems. 
 
-:hibiscus: I take great interest in reading and writing, both prose and poetry; I am on the editorial team for [Signatures](http://www.signaturesmag.com/), my college’s award-winning yearly magazine. Besides that, you can find my writing sprinkled around the virtual realm. [Here's](https://medium.com/@priontinasir) one of the places I speak of. 
+:hibiscus: I take great interest in reading and writing, both prose and poetry; I am on the editorial team for [Signatures](http://www.signaturesmag.com/), my college’s yearly magazine. 
 
 :rose: I am also a trained Indian classical singer and I play the harmonium, esraj and tanpura - I wish I could replace one of these with the guitar :c
 
